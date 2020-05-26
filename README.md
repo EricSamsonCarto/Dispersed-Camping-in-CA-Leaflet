@@ -1,9 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <h3 align="center">Dispersed Camping in CA Leaflet Web Application</h3>
 
