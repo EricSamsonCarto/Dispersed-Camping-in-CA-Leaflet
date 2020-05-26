@@ -9,9 +9,9 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-<div align="center" width="200px">
+<div align="center">
   
-<img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="300px">
+<img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="500px">
   
 </div>
 
