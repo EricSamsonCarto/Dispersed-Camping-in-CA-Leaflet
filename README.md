@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 <div align="center" width="200px">
   
-[![Product Name Screen Shot][product-screenshot]](https://ericsamson.com/GIS/DispersedCamping/DispersedCamping.html)
+<img src="https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400" width="300px">
   
 </div>
 
@@ -27,7 +27,6 @@ Eric Samson - [@your_twitter](https://twitter.com/EricSamsonGIS) - ericsamsonwx@
 Project Link: [https://github.com/your_username/repo_name](https://github.com/EricSamsonCarto/Dispersed-Camping-in-CA-Leaflet)
 
 
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [MapBox toKML](https://github.com/mapbox/tokml)
@@ -35,4 +34,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Er
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/iamericsamson
-[product-screenshot]: https://lh3.googleusercontent.com/VAkI6AmHp0aOhyPW1sNv7m0IqTwmJlU-SXN2_c7eSOgVxqXh7ef-WMdKXG3xJkbWHSurdaUMDwYNWRJjeuAiqbSoq65nKjbwNeGB0O4rYl1NghzbL6spVyDDBDD0Wnb9O6ZomZrdxw=w2400
