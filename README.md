@@ -9,11 +9,11 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-<p align="center" width="200px">
+<div align="center">
   
 [![Product Name Screen Shot][product-screenshot]](https://ericsamson.com/GIS/DispersedCamping/DispersedCamping.html)
   
-</p>
+</div>
 
 ### Built With
 * [Leaflet](https://leafletjs.com/)
