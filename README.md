@@ -27,7 +27,7 @@ Eric Samson: [@MyTwitter](https://twitter.com/EricSamsonGIS) <br>
 Email: ericsamsonwx@gmail.com <br>
 Website: [EricSamson.com](https://ericsamson.com) <br>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/EricSamsonCarto/Dispersed-Camping-in-CA-Leaflet)
+Project Link: [https://github.com/EricSamsonCarto/Dispersed-Camping-in-CA-Leaflet](https://github.com/EricSamsonCarto/Dispersed-Camping-in-CA-Leaflet)
 
 
 <!-- ACKNOWLEDGEMENTS -->
