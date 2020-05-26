@@ -9,7 +9,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-<div align="center">
+<div align="center" width="200px">
   
 [![Product Name Screen Shot][product-screenshot]](https://ericsamson.com/GIS/DispersedCamping/DispersedCamping.html)
   
