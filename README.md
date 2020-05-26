@@ -9,8 +9,10 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-<p align="center" max-width="200px">
+<p align="center" width="200px">
+  
 [![Product Name Screen Shot][product-screenshot]](https://ericsamson.com/GIS/DispersedCamping/DispersedCamping.html)
+  
 </p>
 
 ### Built With
